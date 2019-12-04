@@ -1,0 +1,8 @@
+copy textures/test-pngalpha_custom_src/test-colormap1-alpha1.png
+copy textures/test-pngalpha_custom_src/test-colormap2-alpha1.png
+copy textures/test-pngalpha_custom_src/test-colormap4-alpha1.png
+copy textures/test-pngalpha_custom_src/test-colormap8-alpha1.png
+copy textures/test-pngalpha_custom_src/test-grayscale1-alpha1.png
+copy textures/test-pngalpha_custom_src/test-grayscale1-alpha8.png
+copy textures/test-pngalpha_custom_src/test-grayscale8-alpha1.png
+copy textures/test-pngalpha_custom_src/test-rgb8-alpha8.png

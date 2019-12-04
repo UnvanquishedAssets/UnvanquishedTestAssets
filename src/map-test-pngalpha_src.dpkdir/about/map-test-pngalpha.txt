@@ -1,0 +1,9 @@
+map-test-pngalpha
+
+A map to test toolchain support for various png formats
+
+Map and related assets are distributed
+by Thomas “illwieckz” Debesse
+under CC0 1.0 licence:
+
+	https://creativecommons.org/publicdomain/zero/1.0/
