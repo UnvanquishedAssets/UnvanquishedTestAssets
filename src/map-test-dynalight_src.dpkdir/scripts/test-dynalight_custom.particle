@@ -1,4 +1,4 @@
-techdemo/light
+particles/test-dynalight_custom/light
 {
 	ejector
 	{
@@ -29,7 +29,7 @@ techdemo/light
 	}
 }
 
-techdemo/train_light
+particles/test-dynalight_custom/train_light
 {
 	ejector
 	{
