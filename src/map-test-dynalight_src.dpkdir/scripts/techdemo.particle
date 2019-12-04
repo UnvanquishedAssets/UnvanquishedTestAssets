@@ -1,0 +1,61 @@
+techdemo/light
+{
+	ejector
+	{
+		particle
+		{
+			dynamicLight 0 500 500 { 1 1 1 }
+
+			velocityType static
+			velocityDir linear
+			velocityMagnitude 0
+			velocity 0 -1 0 ~0
+
+			accelerationType static
+			accelerationDir linear
+			accelerationMagnitude 0
+			acceleration 0 0 1 ~0
+
+			radius 0 1 1
+			alpha 0 1 1
+
+			bounce 0
+			lifeTime 1000
+		}
+
+		count infinite
+		delay 0
+		period 1000 - 0
+	}
+}
+
+techdemo/train_light
+{
+	ejector
+	{
+		particle
+		{
+			dynamicLight 0 500 500 { 0.5 0.5 0.5 }
+
+			velocityType static
+			velocityDir linear
+			velocityMagnitude 666.6667
+			velocity 0 -1 0 ~0
+
+			accelerationType static
+			accelerationDir linear
+			accelerationMagnitude 0
+			acceleration 0 0 1 ~0
+
+			radius 0 1 1
+			alpha 0 1 1
+
+			bounce 0
+			lifeTime 2500
+		}
+
+		count infinite
+		delay 0
+		period 1000 - 0
+	}
+}
