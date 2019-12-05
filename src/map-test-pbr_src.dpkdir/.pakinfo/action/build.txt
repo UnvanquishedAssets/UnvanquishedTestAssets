@@ -1,0 +1,3 @@
+convert_lossy_webp textures/test-pbr_custom_src/wall01_nh.png
+convert_lossy_webp textures/test-pbr_custom_src/plate03_nh.png
+convert_lossy_webp textures/test-pbr_custom_src/plate02_nh.png
