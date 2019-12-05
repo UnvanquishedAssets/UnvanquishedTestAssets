@@ -1106,23 +1106,28 @@
 }
 {
 "classname" "info_alien_intermission"
-"origin" "-192.000000 -64.000000 0.000000"
+"origin" "-24.000000 64.000000 0.000000"
+"angle" "-179.999985"
 }
 {
 "classname" "info_human_intermission"
-"origin" "-192.000000 64.000000 0.000000"
+"origin" "-24.000000 -64.000000 0.000000"
+"angle" "-179.999985"
 }
 {
 "classname" "info_player_intermission"
-"origin" "-192.000000 0.000000 0.000000"
+"origin" "-88.000000 920.000000 -80.000000"
+"angle" "90.000000"
 }
 {
 "classname" "team_alien_spawn"
 "origin" "128.000000 -64.000000 -64.000000"
+"angle" "180.000000"
 }
 {
 "classname" "team_human_spawn"
 "origin" "128.000000 64.000000 -64.000000"
+"angle" "180.000000"
 }
 {
 "classname" "light"
