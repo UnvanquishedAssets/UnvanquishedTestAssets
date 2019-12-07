@@ -339,3 +339,11 @@
 "name" "outside"
 "origin" "-1152 -72 104"
 }
+{
+"classname" "team_alien_spawn"
+"origin" "-1728.000000 1344.000000 24.000000"
+}
+{
+"classname" "team_human_spawn"
+"origin" "-1728.000000 -1472.000000 24.000000"
+}
