@@ -1,3 +1,11 @@
 convert_lossy_webp textures/test-pbr_custom_src/wall01_nh.png
 convert_lossy_webp textures/test-pbr_custom_src/plate03_nh.png
 convert_lossy_webp textures/test-pbr_custom_src/plate02_nh.png
+ignore textures/test-pbr_custom_src/wall01_rmo.jpg
+ignore textures/test-pbr_custom_src/plate05_rmo.jpg
+ignore textures/test-pbr_custom_src/plate04_rmo.jpg
+ignore textures/test-pbr_custom_src/plate03_rmo.jpg
+ignore textures/test-pbr_custom_src/plate02_rmo.jpg
+ignore textures/test-pbr_custom_src/plate01_rmo.png
+ignore textures/test-pbr_custom_src/metal01_rmo.jpg
+ignore textures/test-pbr_custom_src/grill01_rmo.jpg
