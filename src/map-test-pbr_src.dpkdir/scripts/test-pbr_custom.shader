@@ -4,6 +4,7 @@ textures/test-pbr_custom/grill01
 	{
 		diffuseMap textures/test-pbr_custom_src/grill01_d
 		normalHeightMap textures/test-pbr_custom_src/grill01_nh
+		normalScale 1 -1 1
 		physicalMap textures/test-pbr_custom_src/grill01_orm
 		alphaFunc GE128
 		blendFunc GL_ONE GL_ZERO
@@ -17,6 +18,7 @@ textures/test-pbr_custom/metal01
 	{
 		diffuseMap textures/test-pbr_custom_src/metal01_d
 		normalHeightMap textures/test-pbr_custom_src/metal01_nh
+		normalScale 1 -1 1
 		physicalMap textures/test-pbr_custom_src/metal01_orm
 	}
 }
@@ -27,6 +29,7 @@ textures/test-pbr_custom/plate01
 	{
 		diffuseMap textures/test-pbr_custom_src/plate01_d
 		normalHeightMap textures/test-pbr_custom_src/plate01_nh
+		normalScale 1 -1 1
 		physicalMap textures/test-pbr_custom_src/plate01_orm
 		glowMap textures/test-pbr_custom_src/plate01_g
 	}
@@ -38,6 +41,7 @@ textures/test-pbr_custom/plate02
 	{
 		diffuseMap textures/test-pbr_custom_src/plate02_d
 		normalHeightMap textures/test-pbr_custom_src/plate02_nh
+		normalScale 1 -1 1
 		physicalMap textures/test-pbr_custom_src/plate02_orm
 	}
 }
@@ -48,6 +52,7 @@ textures/test-pbr_custom/plate03
 	{
 		diffuseMap textures/test-pbr_custom_src/plate03_d
 		normalHeightMap textures/test-pbr_custom_src/plate03_nh
+		normalScale 1 -1 1
 		physicalMap textures/test-pbr_custom_src/plate03_orm
 	}
 }
@@ -58,6 +63,7 @@ textures/test-pbr_custom/plate04
 	{
 		diffuseMap textures/test-pbr_custom_src/plate04_d
 		normalHeightMap textures/test-pbr_custom_src/plate04_nh
+		normalScale 1 -1 1
 		physicalMap textures/test-pbr_custom_src/plate04_orm
 	}
 }
@@ -68,6 +74,7 @@ textures/test-pbr_custom/plate05
 	{
 		diffuseMap textures/test-pbr_custom_src/plate05_d
 		normalHeightMap textures/test-pbr_custom_src/plate05_nh
+		normalScale 1 -1 1
 		physicalMap textures/test-pbr_custom_src/plate05_orm
 	}
 }
@@ -78,6 +85,7 @@ textures/test-pbr_custom/wall01
 	{
 		diffuseMap textures/test-pbr_custom_src/wall01_d
 		normalHeightMap textures/test-pbr_custom_src/wall01_nh
+		normalScale 1 -1 1
 		physicalMap textures/test-pbr_custom_src/wall01_orm
 	}
 }
