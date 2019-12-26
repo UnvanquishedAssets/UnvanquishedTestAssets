@@ -16,3 +16,5 @@ Maps
   a map to test PBR support in engine
 - [`map-test-pngalpha_src.dpkdir`](src/map-test-pngalpha_src.dpkdir)  
   a map to test support for various PNG formats in toolchain
+- [`map-test-water_src.dpkdir`](src/map-test-water_src.dpkdir)  
+  a map to test support for liquidMap water shader
