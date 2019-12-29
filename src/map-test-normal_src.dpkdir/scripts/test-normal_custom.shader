@@ -7,8 +7,10 @@ textures/test-normal_custom/light-white
 //	q3map_backSplash 50 2
 	q3map_surfaceLight 500
 
-	diffuseMap textures/test-normal_custom_src/white_d
-	glowMap textures/test-normal_custom_src/white_d
+	{
+		diffuseMap textures/test-normal_custom_src/white_d
+		glowMap textures/test-normal_custom_src/white_d
+	}
 }
 
 textures/test-normal_custom/light-red
@@ -20,8 +22,10 @@ textures/test-normal_custom/light-red
 //	q3map_backSplash 50 2
 	q3map_surfaceLight 50000
 
-	diffuseMap textures/test-normal_custom_src/red_d
-	glowMap textures/test-normal_custom_src/red_d
+	{
+		diffuseMap textures/test-normal_custom_src/red_d
+		glowMap textures/test-normal_custom_src/red_d
+	}
 }
 
 textures/test-normal_custom/light-green
@@ -33,8 +37,10 @@ textures/test-normal_custom/light-green
 //	q3map_backSplash 50 2
 	q3map_surfaceLight 50000
 
-	diffuseMap textures/test-normal_custom_src/green_d
-	glowMap textures/test-normal_custom_src/green_d
+	{
+		diffuseMap textures/test-normal_custom_src/green_d
+		glowMap textures/test-normal_custom_src/green_d
+	}
 }
 
 textures/test-normal_custom/light-blue
@@ -46,29 +52,33 @@ textures/test-normal_custom/light-blue
 //	q3map_backSplash 50 2
 	q3map_surfaceLight 50000
 
-	diffuseMap textures/test-normal_custom_src/blue_d
-	glowMap textures/test-normal_custom_src/blue_d
+	{
+		diffuseMap textures/test-normal_custom_src/blue_d
+		glowMap textures/test-normal_custom_src/blue_d
+	}
 }
 
 textures/test-normal_custom/tile-gl
 {
 	qer_editorImage textures/test-normal_custom_src/tile-gl_p
 
-	diffuseMap textures/test-normal_custom_src/tile_d
-	specularMap textures/test-normal_custom_src/tile_s
-	normalMap textures/test-normal_custom_src/tile-gl_n
-	parallax
-	glowMap textures/test-normal_custom_src/tile-gl_g
+	{
+		diffuseMap textures/test-normal_custom_src/tile_d
+		specularMap textures/test-normal_custom_src/tile_s
+		normalHeightMap textures/test-normal_custom_src/tile-gl_nh
+		glowMap textures/test-normal_custom_src/tile-gl_g
+	}
 }
 
 textures/test-normal_custom/tile-dx
 {
 	qer_editorImage textures/test-normal_custom_src/tile-dx_p
 
-	diffuseMap textures/test-normal_custom_src/tile_d
-	specularMap textures/test-normal_custom_src/tile_s
-	normalMap textures/test-normal_custom_src/tile-dx_n
-	normalFormat 1 -1 1
-	parallax
-	glowMap textures/test-normal_custom_src/tile-dx_g
+	{
+		diffuseMap textures/test-normal_custom_src/tile_d
+		specularMap textures/test-normal_custom_src/tile_s
+		normalHeightMap textures/test-normal_custom_src/tile-dx_nh
+		normalScale 1 -1 1
+		glowMap textures/test-normal_custom_src/tile-dx_g
+	}
 }
