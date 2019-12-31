@@ -5,7 +5,7 @@ textures/test-normal_custom/light-white
 	q3map_lightRGB 1 1 1
 //	q3map_lightSubdivide 32
 //	q3map_backSplash 50 2
-	q3map_surfaceLight 500
+	q3map_surfaceLight 50000
 
 	{
 		diffuseMap textures/test-normal_custom_src/white_d
