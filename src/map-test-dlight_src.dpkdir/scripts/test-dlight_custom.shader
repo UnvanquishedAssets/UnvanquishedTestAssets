@@ -1,16 +1,16 @@
-textures/test-dynalight_custom/teleporter
+textures/test-dlight_custom/teleporter
 {
-	qer_editorImage textures/test-dynalight_custom_src/teleporter_d
+	qer_editorImage textures/test-dlight_custom_src/teleporter_d
 	surfaceparm nolightmap
 	surfaceparm nomarks
 
 	{
-		map textures/test-dynalight_custom_src/teleporter_d
+		map textures/test-dlight_custom_src/teleporter_d
 		tcMod scroll 2 2
 	}
 }
 
-textures/test-dynalight_custom/train_scroll
+textures/test-dlight_custom/train_scroll
 {
 	qer_editorImage textures/shared_pk01_src/wall03b_d
 	surfaceparm nomarks
@@ -36,13 +36,13 @@ textures/test-dynalight_custom/train_scroll
 	}
 }
 
-textures/test-dynalight_custom/clamptest
+textures/test-dlight_custom/clamptest
 {
-	qer_editorimage textures/test-dynalight_custom_src/train_scroll
+	qer_editorimage textures/test-dlight_custom_src/train_scroll
 	surfaceparm nolightmap
 
 	{
-		clampmap textures/test-dynalight_custom_src/train_scroll
+		clampmap textures/test-dlight_custom_src/train_scroll
 		tcMod rotate 90
 	}
 }

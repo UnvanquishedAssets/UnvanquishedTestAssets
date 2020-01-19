@@ -266,7 +266,7 @@
 ( -16 1760 -192 ) ( -16 192 -192 ) ( 8 1760 -102 ) common/caulk 62.6938476562 16 0 -3.0625 4 0 0 0
 ( -24 1760 -192 ) ( -24 192 -192 ) ( -16 192 -192 ) common/caulk 0 56.163269043 180 0.015625 24.5 0 0 0
 ( -24 1760 -192 ) ( -16 1760 -192 ) ( 8 1760 -102 ) common/caulk 0 16 0 -0.015625 4 0 0 0
-( -24 192 -192 ) ( -24 1760 -192 ) ( 0 1760 -102 ) test-dynalight_custom/train_scroll 501.55078125 128 0 -0.3828125 0.5 0 0 0
+( -24 192 -192 ) ( -24 1760 -192 ) ( 0 1760 -102 ) test-dlight_custom/train_scroll 501.55078125 128 0 -0.3828125 0.5 0 0 0
 ( -16 192 -192 ) ( -24 192 -192 ) ( 0 192 -102 ) common/caulk 0 16 0 -0.015625 4 0 0 0
 ( 14 -64 -102 ) ( 0 64 -102 ) ( 14 64 -102 ) common/caulk 16 0 0 -0.5 0.5 0 0 0
 }
@@ -627,7 +627,7 @@
 {
 ( -184 1480 -32 ) ( -128 1480 -128 ) ( -128 1480 -32 ) common/black 0 0 0 0.5 0.5 0 0 0
 ( -184 1480 -128 ) ( -184 1480 -32 ) ( -184 1472 -128 ) common/caulk 0 0 0 0.5 0.5 0 0 0
-( -184 1472 -128 ) ( -128 1472 -32 ) ( -128 1472 -128 ) test-dynalight_custom/teleporter 341.3330383301 341.3333740234 0 0.1875 0.1875 0 0 0
+( -184 1472 -128 ) ( -128 1472 -32 ) ( -128 1472 -128 ) test-dlight_custom/teleporter 341.3330383301 341.3333740234 0 0.1875 0.1875 0 0 0
 ( -128 1472 -128 ) ( -128 1480 -32 ) ( -128 1480 -128 ) common/caulk 0 0 0 0.5 0.5 0 0 0
 ( -184 1472 -128 ) ( -128 1472 -128 ) ( -128 1480 -128 ) common/caulk 16 -0 0 -0.5 0.5 0 0 0
 ( -176 64 -56 ) ( -168 64 -56 ) ( -176 -64 -56 ) common/caulk 0 0 0 0.5 0.5 0 0 0
@@ -852,10 +852,10 @@
 }
 {
 ( -240 96 128 ) ( -240 32 128 ) ( -256 96 128 ) common/caulk 0 0 0 0.5 0.5 0 0 0
-( -240 96 128 ) ( -256 96 128 ) ( -240 96 -128 ) test-dynalight_custom/teleporter 0 0 0 0.5 0.5 0 0 0
-( -240 96 128 ) ( -240 96 -128 ) ( -240 32 128 ) test-dynalight_custom/teleporter 0 0 0 0.5 0.5 0 0 0
+( -240 96 128 ) ( -256 96 128 ) ( -240 96 -128 ) test-dlight_custom/teleporter 0 0 0 0.5 0.5 0 0 0
+( -240 96 128 ) ( -240 96 -128 ) ( -240 32 128 ) test-dlight_custom/teleporter 0 0 0 0.5 0.5 0 0 0
 ( -256 32 -128 ) ( -240 32 -128 ) ( -256 96 -128 ) common/caulk 0 0 0 0.5 0.5 0 0 0
-( -256 32 -128 ) ( -256 32 128 ) ( -240 32 -128 ) test-dynalight_custom/teleporter 0 0 0 0.5 0.5 0 0 0
+( -256 32 -128 ) ( -256 32 128 ) ( -240 32 -128 ) test-dlight_custom/teleporter 0 0 0 0.5 0.5 0 0 0
 ( -256 32 -128 ) ( -256 96 -128 ) ( -256 32 128 ) common/caulk 0 0 0 0.5 0.5 0 0 0
 }
 {
@@ -1006,14 +1006,14 @@
 ( -16 192 64 ) ( -16 1760 64 ) ( -8 1760 64 ) common/caulk 0 56.163269043 180 0.015625 24.5 0 0 0
 ( -8 192 64 ) ( -8 1760 64 ) ( 8 1760 -90 ) common/caulk 62.6938476562 16 0 -3.0625 4 0 0 0
 ( -8 1760 64 ) ( -16 1760 64 ) ( 0 1760 -90 ) common/caulk 0 16 0 -0.015625 4 0 0 0
-( -16 1760 64 ) ( -16 192 64 ) ( 0 1760 -90 ) test-dynalight_custom/train_scroll 501.55078125 128 0 -0.3828125 0.5 0 0 0
+( -16 1760 64 ) ( -16 192 64 ) ( 0 1760 -90 ) test-dlight_custom/train_scroll 501.55078125 128 0 -0.3828125 0.5 0 0 0
 ( -16 192 64 ) ( -8 192 64 ) ( 8 192 -90 ) common/caulk 0 16 0 -0.015625 4 0 0 0
 ( 0 1760 -90 ) ( 0 192 -90 ) ( 8 1760 -90 ) common/caulk 16 0 0 -0.5 0.5 0 0 0
 }
 {
 ( 8 192 -90 ) ( 8 1760 -90 ) ( 8 192 -102 ) common/caulk 62.6938476562 16 0 -3.0625 4 0 0 0
 ( 8 1760 -90 ) ( 0 1760 -90 ) ( 0 1760 -102 ) common/caulk 0 16 0 -0.015625 4 0 0 0
-( 0 1760 -90 ) ( 0 192 -90 ) ( 0 192 -102 ) test-dynalight_custom/train_scroll 501.55078125 128 0 -0.3828125 0.5 0 0 0
+( 0 1760 -90 ) ( 0 192 -90 ) ( 0 192 -102 ) test-dlight_custom/train_scroll 501.55078125 128 0 -0.3828125 0.5 0 0 0
 ( 0 192 -90 ) ( 8 192 -90 ) ( 0 192 -102 ) common/caulk 0 16 0 -0.015625 4 0 0 0
 ( 14 64 -102 ) ( 0 64 -102 ) ( 14 -64 -102 ) common/caulk 16 0 0 -0.5 0.5 0 0 0
 ( 0 192 -90 ) ( 0 1760 -90 ) ( 8 1760 -90 ) common/caulk 16 0 0 -0.5 0.5 0 0 0
@@ -1022,7 +1022,7 @@
 ( -320 1760 -102 ) ( -296 192 -192 ) ( -296 1760 -192 ) common/caulk 62.6938476562 16 0 -3.0625 4 0 0 0
 ( -296 192 -192 ) ( -288 192 -192 ) ( -288 1760 -192 ) common/caulk 0 56.163269043 0 0.015625 -24.5 0 0 0
 ( -320 1760 -102 ) ( -296 1760 -192 ) ( -288 1760 -192 ) common/caulk 0 16 0 0.015625 4 0 0 0
-( -312 1760 -102 ) ( -288 1760 -192 ) ( -288 192 -192 ) test-dynalight_custom/train_scroll 501.55078125 128 0 -0.3828125 0.5 0 0 0
+( -312 1760 -102 ) ( -288 1760 -192 ) ( -288 192 -192 ) test-dlight_custom/train_scroll 501.55078125 128 0 -0.3828125 0.5 0 0 0
 ( -312 192 -102 ) ( -288 192 -192 ) ( -296 192 -192 ) common/caulk 0 16 0 0.015625 4 0 0 0
 ( -326 64 -102 ) ( -312 64 -102 ) ( -326 -64 -102 ) common/caulk 0 0 0 0.5 0.5 0 0 0
 }
@@ -1030,14 +1030,14 @@
 ( -304 1760 64 ) ( -296 1760 64 ) ( -296 192 64 ) common/caulk 0 56.163269043 0 0.015625 -24.5 0 0 0
 ( -320 1760 -90 ) ( -304 1760 64 ) ( -304 192 64 ) common/caulk 62.6938476562 16 0 -3.0625 4 0 0 0
 ( -312 1760 -90 ) ( -296 1760 64 ) ( -304 1760 64 ) common/caulk 0 16 0 0.015625 4 0 0 0
-( -312 1760 -90 ) ( -296 192 64 ) ( -296 1760 64 ) test-dynalight_custom/train_scroll 501.55078125 128 0 -0.3828125 0.5 0 0 0
+( -312 1760 -90 ) ( -296 192 64 ) ( -296 1760 64 ) test-dlight_custom/train_scroll 501.55078125 128 0 -0.3828125 0.5 0 0 0
 ( -320 192 -90 ) ( -304 192 64 ) ( -296 192 64 ) common/caulk 0 16 0 0.015625 4 0 0 0
 ( -320 1760 -90 ) ( -312 192 -90 ) ( -312 1760 -90 ) common/caulk 0 0 0 0.5 0.5 0 0 0
 }
 {
 ( -320 192 -102 ) ( -320 1760 -90 ) ( -320 192 -90 ) common/caulk 62.6938476562 16 0 -3.0625 4 0 0 0
 ( -312 1760 -102 ) ( -312 1760 -90 ) ( -320 1760 -90 ) common/caulk 0 16 0 0.015625 4 0 0 0
-( -312 192 -102 ) ( -312 192 -90 ) ( -312 1760 -90 ) test-dynalight_custom/train_scroll 501.55078125 128 0 -0.3828125 0.5 0 0 0
+( -312 192 -102 ) ( -312 192 -90 ) ( -312 1760 -90 ) test-dlight_custom/train_scroll 501.55078125 128 0 -0.3828125 0.5 0 0 0
 ( -312 192 -102 ) ( -320 192 -90 ) ( -312 192 -90 ) common/caulk 0 16 0 0.015625 4 0 0 0
 ( -326 -64 -102 ) ( -312 64 -102 ) ( -326 64 -102 ) common/caulk 0 0 0 0.5 0.5 0 0 0
 ( -320 1760 -90 ) ( -312 1760 -90 ) ( -312 192 -90 ) common/caulk 0 0 0 0.5 0.5 0 0 0
@@ -1186,7 +1186,7 @@
 {
 "classname" "gfx_particle_system"
 "origin" "-17.000000 1744.000000 -80.000000"
-"psName" "particles/test-dynalight_custom/train_light"
+"psName" "particles/test-dlight_custom/train_light"
 "spawnflags" "1"
 "targetname" "train_lights_ps"
 }
@@ -1311,7 +1311,7 @@
 {
 "classname" "gfx_particle_system"
 "origin" "-295.000000 1744.000000 -80.000000"
-"psName" "particles/test-dynalight_custom/train_light"
+"psName" "particles/test-dlight_custom/train_light"
 "spawnflags" "1"
 "targetname" "train_lights_ps"
 }
@@ -1326,24 +1326,24 @@
 "classname" "target_speaker"
 "origin" "-280.000000 968.000000 -80.000000"
 "spawnflags" "1"
-"noise" "sound/test-dynalight/train_alt_1"
+"noise" "sound/test-dlight/train_alt_1"
 }
 {
 "classname" "target_speaker"
 "origin" "-264.000000 968.000000 -80.000000"
-"noise" "sound/test-dynalight/train_passby_1"
+"noise" "sound/test-dlight/train_passby_1"
 "targetname" "train_lights_sound"
 }
 {
 "classname" "target_speaker"
 "origin" "-32.000000 968.000000 -80.000000"
 "spawnflags" "1"
-"noise" "sound/test-dynalight/train_alt_2"
+"noise" "sound/test-dlight/train_alt_2"
 }
 {
 "classname" "target_speaker"
 "origin" "-48.000000 968.000000 -80.000000"
-"noise" "sound/test-dynalight/train_passby_2"
+"noise" "sound/test-dlight/train_passby_2"
 "targetname" "train_lights_sound"
 }
 {
@@ -1357,25 +1357,25 @@
 "classname" "target_speaker"
 "origin" "-240.000000 1336.000000 -48.000000"
 "spawnflags" "1"
-"noise" "sound/test-dynalight/train_1"
+"noise" "sound/test-dlight/train_1"
 }
 {
 "classname" "target_speaker"
 "origin" "-72.000000 1336.000000 -48.000000"
 "spawnflags" "1"
-"noise" "sound/test-dynalight/train_2"
+"noise" "sound/test-dlight/train_2"
 }
 {
 "classname" "target_speaker"
 "origin" "-72.000000 912.000000 -48.000000"
 "spawnflags" "1"
-"noise" "sound/test-dynalight/train_2"
+"noise" "sound/test-dlight/train_2"
 }
 {
 "classname" "target_speaker"
 "origin" "-240.000000 912.000000 -48.000000"
 "spawnflags" "1"
-"noise" "sound/test-dynalight/train_1"
+"noise" "sound/test-dlight/train_1"
 }
 {
 "classname" "light"
