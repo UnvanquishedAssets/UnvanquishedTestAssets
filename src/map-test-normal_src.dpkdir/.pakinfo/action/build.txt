@@ -1,2 +1,0 @@
-convert_lossy_webp textures/test_normal_src/tile-dx_n.png
-convert_lossy_webp textures/test_normal_src/tile-gl_n.png
