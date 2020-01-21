@@ -66,6 +66,7 @@ textures/test-normal_custom/tile-gl
 		diffuseMap textures/test-normal_custom_src/tile_d
 		specularMap textures/test-normal_custom_src/tile_s
 		normalMap textures/test-normal_custom_src/tile-gl_n
+		normalScale 1 -1 1
 		heightMap textures/test-normal_custom_src/tile_h
 		glowMap textures/test-normal_custom_src/tile-gl_g
 	}
@@ -79,7 +80,6 @@ textures/test-normal_custom/tile-dx
 		diffuseMap textures/test-normal_custom_src/tile_d
 		specularMap textures/test-normal_custom_src/tile_s
 		normalMap textures/test-normal_custom_src/tile-dx_n
-		normalScale 1 -1 1
 		heightMap textures/test-normal_custom_src/tile_h
 		glowMap textures/test-normal_custom_src/tile-dx_g
 	}
