@@ -8,7 +8,7 @@ See https://unvanquished.net
 Maps
 ----
 
-- [`map-test-dynalight_src.dpkdir`](src/map-test-dynalight_src.dpkdir)  
+- [`map-test-dlight_src.dpkdir`](src/map-test-dlight_src.dpkdir)  
   a map to test dynamic light, also features a nice train demo
 - [`map-test-normal_src.dpkdir`](src/map-test-normal_src.dpkdir)  
   a map to test normal maps in various formats (OpenGL, DirectX)
