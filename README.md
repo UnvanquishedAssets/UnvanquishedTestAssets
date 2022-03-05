@@ -12,7 +12,6 @@ Maps
   a map to test dynamic light, also features a nice train demo
 - [`map-test-model_src.dpkdir`](src/map-test-model_src.dpkdir)  
   a map to help testing models: replace the armoury model, load the map and check if everything is right
-- [`map-test-pbr_src.dpkdir`](src/map-test-pbr_src.dpkdir)  
 - [`map-test-normal_src.dpkdir`](src/map-test-normal_src.dpkdir)  
   a map to test normal maps in various formats (OpenGL, DirectX)
 - [`map-test-pbr_src.dpkdir`](src/map-test-pbr_src.dpkdir)  
