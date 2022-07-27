@@ -4,3 +4,13 @@
 /src/maps/
 /src/prefabs/
 /src/scripts/
+src/*/maps/*.autosave.map
+src/*/maps/*.bak
+src/*/maps/*.bsp
+src/*/maps/*.lin
+src/*/maps/*.navMesh
+src/*/maps/*.prt
+src/*/maps/*.srf
+src/*/maps/*/lm_*
+src/*/minimaps/
+src/*/scripts/q3map2_*.shader
