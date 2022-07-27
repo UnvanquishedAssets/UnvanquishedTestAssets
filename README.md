@@ -10,6 +10,8 @@ Maps
 
 - [`map-test-dlight_src.dpkdir`](src/map-test-dlight_src.dpkdir)  
   a map to test dynamic light, also features a nice train demo
+- [`map-test-ent-damage_src.dpkdir`](src/map-test-ent-damage_src.dpkdir)  
+  a map to test support for damage entities (doors, buttons) and triggers heal, hurt
 - [`map-test-gravity0_src.dpkdir`](src/map-test-gravity0_src.dpkdir)  
   a map to test that gravity 0 brushes work
 - [`map-test-model_src.dpkdir`](src/map-test-model_src.dpkdir)  
