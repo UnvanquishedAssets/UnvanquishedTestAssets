@@ -10,6 +10,8 @@ Maps
 
 - [`map-test-dlight_src.dpkdir`](src/map-test-dlight_src.dpkdir)  
   a map to test dynamic light, also features a nice train demo
+- [`map-test-gravity0_src.dpkdir`](src/map-test-gravity0_src.dpkdir)  
+  a map to test that gravity 0 brushes work
 - [`map-test-model_src.dpkdir`](src/map-test-model_src.dpkdir)  
   a map to help testing models: replace the armoury model, load the map and check if everything is right
 - [`map-test-normal_src.dpkdir`](src/map-test-normal_src.dpkdir)  
