@@ -1,8 +1,6 @@
-// entity 0
 {
 "classname" "worldspawn"
 "disabledBuildables" "mgturret,booster,arm,medistat,barricade,trapper"
-// brush 0
 {
 brushDef
 {
@@ -14,7 +12,6 @@ brushDef
 ( -128 128 512 ) ( 192 -128 512 ) ( 192 128 512 ) ( ( 0.001953125 0 -0 ) ( -0 0.001953125 0 ) ) shared_space/sky15 0 0 0
 }
 }
-// brush 1
 {
 brushDef
 {
@@ -26,7 +23,6 @@ brushDef
 ( 448 1024 -64 ) ( 128 1024 64 ) ( 448 1024 64 ) ( ( 0.001953125 0 -0 ) ( -0 0.001953125 0 ) ) shared_space/sky15 0 0 0
 }
 }
-// brush 2
 {
 brushDef
 {
@@ -38,7 +34,6 @@ brushDef
 ( 1024 64 64 ) ( 1024 320 -64 ) ( 1024 320 64 ) ( ( 0.001953125 0 -0 ) ( -0 0.001953125 0 ) ) shared_space/sky15 0 0 0
 }
 }
-// brush 3
 {
 brushDef
 {
@@ -50,7 +45,6 @@ brushDef
 ( -128 128 -64 ) ( 192 -128 -64 ) ( -128 -128 -64 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0 ) ) shared_trak5/base1b 0 0 0
 }
 }
-// brush 4
 {
 brushDef
 {
@@ -62,7 +56,6 @@ brushDef
 ( -128 -1152 -64 ) ( -448 -1152 64 ) ( -448 -1152 -64 ) ( ( 0.001953125 0 -0 ) ( -0 0.001953125 0 ) ) shared_space/sky15 0 0 0
 }
 }
-// brush 5
 {
 brushDef
 {
@@ -74,7 +67,6 @@ brushDef
 ( -1024 -512 64 ) ( -1024 -256 -64 ) ( -1024 -512 -64 ) ( ( 0.001953125 0 -0 ) ( -0 0.001953125 0 ) ) shared_space/sky15 0 0 0
 }
 }
-// brush 6
 {
 brushDef
 {
@@ -86,7 +78,6 @@ brushDef
 ( -256 448 -64 ) ( -256 800 -64 ) ( -256 448 512 ) ( ( 0 0.015625 -0 ) ( -0.015625 0 0 ) ) shared_trak5/wall4b 0 0 0
 }
 }
-// brush 7
 {
 brushDef
 {
@@ -98,7 +89,6 @@ brushDef
 ( -256 704 -64 ) ( -256 1056 -64 ) ( -256 704 512 ) ( ( 0 0.015625 -0 ) ( -0.015625 0 0 ) ) shared_trak5/wall4b 0 0 0
 }
 }
-// brush 8
 {
 brushDef
 {
@@ -110,7 +100,6 @@ brushDef
 ( -256 768 -64 ) ( -256 1120 -64 ) ( -256 768 512 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0.5 ) ) shared_trak5/wall4b 0 0 0
 }
 }
-// brush 9
 {
 brushDef
 {
@@ -122,7 +111,6 @@ brushDef
 ( -256 704 96 ) ( -256 768 96 ) ( -256 704 160 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0.5 ) ) shared_trak5/wall5b 0 0 0
 }
 }
-// brush 10
 {
 brushDef
 {
@@ -134,7 +122,6 @@ brushDef
 ( -256 512 96 ) ( -256 576 96 ) ( -256 512 160 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0.5 ) ) shared_trak5/wall5b 0 0 0
 }
 }
-// brush 11
 {
 brushDef
 {
@@ -146,7 +133,6 @@ brushDef
 ( -256 64 -64 ) ( -256 416 -64 ) ( -256 64 512 ) ( ( 0 0.015625 -0 ) ( -0.015625 0 0 ) ) shared_trak5/wall4d 0 0 0
 }
 }
-// brush 12
 {
 brushDef
 {
@@ -158,7 +144,6 @@ brushDef
 ( -256 320 -64 ) ( -256 672 -64 ) ( -256 320 512 ) ( ( 0 0.015625 -0 ) ( -0.015625 0 0 ) ) shared_trak5/wall4d 0 0 0
 }
 }
-// brush 13
 {
 brushDef
 {
@@ -170,7 +155,6 @@ brushDef
 ( -256 384 -64 ) ( -256 736 -64 ) ( -256 384 512 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0.5 ) ) shared_trak5/wall4d 0 0 0
 }
 }
-// brush 14
 {
 brushDef
 {
@@ -182,7 +166,6 @@ brushDef
 ( -256 320 96 ) ( -256 384 96 ) ( -256 320 160 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0.5 ) ) shared_trak5/wall5d 0 0 0
 }
 }
-// brush 15
 {
 brushDef
 {
@@ -194,7 +177,6 @@ brushDef
 ( -256 128 96 ) ( -256 192 96 ) ( -256 128 160 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0.5 ) ) shared_trak5/wall5d 0 0 0
 }
 }
-// brush 16
 {
 brushDef
 {
@@ -206,7 +188,6 @@ brushDef
 ( -256 -320 -64 ) ( -256 32 -64 ) ( -256 -320 512 ) ( ( 0 0.015625 -0 ) ( -0.015625 0 0 ) ) shared_trak5/wall4c 0 0 0
 }
 }
-// brush 17
 {
 brushDef
 {
@@ -218,7 +199,6 @@ brushDef
 ( -256 -64 -64 ) ( -256 288 -64 ) ( -256 -64 512 ) ( ( 0 0.015625 -0 ) ( -0.015625 0 0 ) ) shared_trak5/wall4c 0 0 0
 }
 }
-// brush 18
 {
 brushDef
 {
@@ -230,7 +210,6 @@ brushDef
 ( -256 0 -64 ) ( -256 352 -64 ) ( -256 0 512 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0.5 ) ) shared_trak5/wall4c 0 0 0
 }
 }
-// brush 19
 {
 brushDef
 {
@@ -242,7 +221,6 @@ brushDef
 ( -256 -64 96 ) ( -256 0 96 ) ( -256 -64 160 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0.5 ) ) shared_trak5/wall5c 0 0 0
 }
 }
-// brush 20
 {
 brushDef
 {
@@ -254,7 +232,6 @@ brushDef
 ( -256 -256 96 ) ( -256 -192 96 ) ( -256 -256 160 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0.5 ) ) shared_trak5/wall5c 0 0 0
 }
 }
-// brush 21
 {
 brushDef
 {
@@ -266,7 +243,6 @@ brushDef
 ( 256 -768 -64 ) ( 256 -448 -64 ) ( 256 -768 128 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0 ) ) shared_trak5/base1a 0 0 0
 }
 }
-// brush 22
 {
 brushDef
 {
@@ -278,7 +254,6 @@ brushDef
 ( 256 -768 -64 ) ( 256 -448 -64 ) ( 256 -768 128 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0 ) ) shared_trak5/base1a 0 0 0
 }
 }
-// brush 23
 {
 brushDef
 {
@@ -290,7 +265,6 @@ brushDef
 ( 256 -816 -64 ) ( 256 -464 -64 ) ( 256 -816 -48 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0 ) ) shared_trak5/base1a 0 0 0
 }
 }
-// brush 24
 {
 brushDef
 {
@@ -302,7 +276,6 @@ brushDef
 ( 624 -816 -64 ) ( 624 -512 -64 ) ( 624 -816 -48 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0 ) ) shared_trak5/base1a 0 0 0
 }
 }
-// brush 25
 {
 brushDef
 {
@@ -314,7 +287,6 @@ brushDef
 ( 624 -656 -48 ) ( 624 -624 -48 ) ( 624 -656 -32 ) ( ( 0.0249999966 0 112.5 ) ( 0 0.0056818184 0.7272727489 ) ) shared_trak5/light1_blue_1500 0 0 0
 }
 }
-// brush 26
 {
 brushDef
 {
@@ -326,7 +298,6 @@ brushDef
 ( 256 -256 -64 ) ( 256 64 -64 ) ( 256 -256 128 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0 ) ) shared_trak5/base1a 0 0 0
 }
 }
-// brush 27
 {
 brushDef
 {
@@ -338,7 +309,6 @@ brushDef
 ( 256 -256 -64 ) ( 256 64 -64 ) ( 256 -256 128 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0 ) ) shared_trak5/base1a 0 0 0
 }
 }
-// brush 28
 {
 brushDef
 {
@@ -350,7 +320,6 @@ brushDef
 ( 256 -304 -64 ) ( 256 48 -64 ) ( 256 -304 -48 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0 ) ) shared_trak5/base1a 0 0 0
 }
 }
-// brush 29
 {
 brushDef
 {
@@ -362,7 +331,6 @@ brushDef
 ( 624 -304 -64 ) ( 624 0 -64 ) ( 624 -304 -48 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0 ) ) shared_trak5/base1a 0 0 0
 }
 }
-// brush 30
 {
 brushDef
 {
@@ -374,7 +342,6 @@ brushDef
 ( 624 -144 -48 ) ( 624 -112 -48 ) ( 624 -144 -32 ) ( ( 0.0249999966 0 125.3000030518 ) ( 0 0.0056818184 0.7272727489 ) ) shared_trak5/light1_red_1500 0 0 0
 }
 }
-// brush 31
 {
 brushDef
 {
@@ -386,7 +353,6 @@ brushDef
 ( -224 -192 96 ) ( -224 -88 96 ) ( -224 -192 160 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0 ) ) shared_trak5/base1a 0 0 0
 }
 }
-// brush 32
 {
 brushDef
 {
@@ -398,7 +364,6 @@ brushDef
 ( -240 -132 112 ) ( -240 -124 112 ) ( -240 -132 120 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 33
 {
 brushDef
 {
@@ -410,7 +375,6 @@ brushDef
 ( -224 192 96 ) ( -224 296 96 ) ( -224 192 160 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0 ) ) shared_trak5/base1a 0 0 0
 }
 }
-// brush 34
 {
 brushDef
 {
@@ -422,7 +386,6 @@ brushDef
 ( -240 252 112 ) ( -240 260 112 ) ( -240 252 120 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 35
 {
 brushDef
 {
@@ -434,7 +397,6 @@ brushDef
 ( -224 576 96 ) ( -224 680 96 ) ( -224 576 160 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0 ) ) shared_trak5/base1a 0 0 0
 }
 }
-// brush 36
 {
 brushDef
 {
@@ -446,7 +408,6 @@ brushDef
 ( -240 636 112 ) ( -240 644 112 ) ( -240 636 120 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 37
 {
 brushDef
 {
@@ -458,7 +419,6 @@ brushDef
 ( 272 -304 -64 ) ( 272 48 -64 ) ( 272 -304 -48 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 38
 {
 brushDef
 {
@@ -470,7 +430,6 @@ brushDef
 ( -256 -704 -64 ) ( -256 -352 -64 ) ( -256 -704 512 ) ( ( 0 0.015625 -0 ) ( -0.015625 0 0 ) ) shared_trak5/wall4a 0 0 0
 }
 }
-// brush 39
 {
 brushDef
 {
@@ -482,7 +441,6 @@ brushDef
 ( -256 -448 -64 ) ( -256 -96 -64 ) ( -256 -448 512 ) ( ( 0 0.015625 -0 ) ( -0.015625 0 0 ) ) shared_trak5/wall4a 0 0 0
 }
 }
-// brush 40
 {
 brushDef
 {
@@ -494,7 +452,6 @@ brushDef
 ( -256 -384 -64 ) ( -256 -32 -64 ) ( -256 -384 512 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0.5 ) ) shared_trak5/wall4a 0 0 0
 }
 }
-// brush 41
 {
 brushDef
 {
@@ -506,7 +463,6 @@ brushDef
 ( -256 -448 96 ) ( -256 -384 96 ) ( -256 -448 160 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0.5 ) ) shared_trak5/wall5a 0 0 0
 }
 }
-// brush 42
 {
 brushDef
 {
@@ -518,7 +474,6 @@ brushDef
 ( -256 -640 96 ) ( -256 -576 96 ) ( -256 -640 160 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0.5 ) ) shared_trak5/wall5a 0 0 0
 }
 }
-// brush 43
 {
 brushDef
 {
@@ -530,7 +485,6 @@ brushDef
 ( -224 -576 96 ) ( -224 -472 96 ) ( -224 -576 160 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0 ) ) shared_trak5/base1a 0 0 0
 }
 }
-// brush 44
 {
 brushDef
 {
@@ -542,7 +496,6 @@ brushDef
 ( -240 -516 112 ) ( -240 -508 112 ) ( -240 -516 120 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 45
 {
 brushDef
 {
@@ -554,7 +507,6 @@ brushDef
 ( -240 -440 -8 ) ( -240 -392 -8 ) ( -240 -440 8 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 46
 {
 brushDef
 {
@@ -566,7 +518,6 @@ brushDef
 ( -240 -56 -8 ) ( -240 -8 -8 ) ( -240 -56 8 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 47
 {
 brushDef
 {
@@ -578,7 +529,6 @@ brushDef
 ( -240 328 -8 ) ( -240 376 -8 ) ( -240 328 8 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 48
 {
 brushDef
 {
@@ -590,7 +540,6 @@ brushDef
 ( -240 712 -8 ) ( -240 760 -8 ) ( -240 712 8 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 49
 {
 brushDef
 {
@@ -602,7 +551,6 @@ brushDef
 ( 272 -816 -64 ) ( 272 -464 -64 ) ( 272 -816 -48 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 50
 {
 brushDef
 {
@@ -614,7 +562,6 @@ brushDef
 ( -256 -1088 -64 ) ( -256 -736 -64 ) ( -256 -1088 512 ) ( ( 0 0.015625 -0 ) ( -0.015625 0 0 ) ) shared_trak5/wall4d 0 0 0
 }
 }
-// brush 51
 {
 brushDef
 {
@@ -626,7 +573,6 @@ brushDef
 ( -256 -832 -64 ) ( -256 -480 -64 ) ( -256 -832 512 ) ( ( 0 0.015625 -0 ) ( -0.015625 0 0 ) ) shared_trak5/wall4d 0 0 0
 }
 }
-// brush 52
 {
 brushDef
 {
@@ -638,7 +584,6 @@ brushDef
 ( -256 -768 -64 ) ( -256 -416 -64 ) ( -256 -768 512 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0.5 ) ) shared_trak5/wall4d 0 0 0
 }
 }
-// brush 53
 {
 brushDef
 {
@@ -650,7 +595,6 @@ brushDef
 ( -256 -832 96 ) ( -256 -768 96 ) ( -256 -832 160 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0.5 ) ) shared_trak5/wall5d 0 0 0
 }
 }
-// brush 54
 {
 brushDef
 {
@@ -662,7 +606,6 @@ brushDef
 ( -256 -1024 96 ) ( -256 -960 96 ) ( -256 -1024 160 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0.5 ) ) shared_trak5/wall5d 0 0 0
 }
 }
-// brush 55
 {
 brushDef
 {
@@ -674,7 +617,6 @@ brushDef
 ( -224 -960 96 ) ( -224 -856 96 ) ( -224 -960 160 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0 ) ) shared_trak5/base1a 0 0 0
 }
 }
-// brush 56
 {
 brushDef
 {
@@ -686,7 +628,6 @@ brushDef
 ( -240 -900 112 ) ( -240 -892 112 ) ( -240 -900 120 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 57
 {
 brushDef
 {
@@ -699,67 +640,55 @@ brushDef
 }
 }
 }
-// entity 1
 {
 "classname" "team_human_reactor"
 "origin" "896 896 0"
 }
-// entity 2
 {
 "classname" "team_human_spawn"
 "origin" "896 704 0"
 "angle" "180"
 }
-// entity 3
 {
 "classname" "team_human_armoury"
 "origin" "704 896 0"
 }
-// entity 4
 {
 "classname" "team_human_medistat"
 "origin" "704 768 0"
 }
-// entity 5
 {
 "classname" "team_alien_overmind"
 "origin" "-896 -896 0"
 "angle" "180"
 }
-// entity 6
 {
 "classname" "team_alien_spawn"
 "origin" "-896 -704 0"
 }
-// entity 7
 {
 "classname" "team_alien_booster"
 "origin" "-704 -896 0"
 }
-// entity 8
 {
 "classname" "team_alien_barricade"
 "origin" "-704 -704 0"
 }
-// entity 9
 {
 "classname" "info_notnull"
 "origin" "-448 448 0"
 "targetname" "intermission"
 }
-// entity 10
 {
 "classname" "info_player_intermission"
 "origin" "448 -448 192"
 "target" "intermission"
 }
-// entity 11
 {
 "classname" "func_door"
 "angle" "270"
 "team" "door1"
 "health" "1"
-// brush 0
 {
 brushDef
 {
@@ -771,7 +700,6 @@ brushDef
 ( -252 576 -64 ) ( -252 640 -64 ) ( -252 576 96 ) ( ( 0 0.015625 -0 ) ( -0.015625 0 0 ) ) shared_trak5/wall4b 0 0 0
 }
 }
-// brush 1
 {
 brushDef
 {
@@ -784,13 +712,11 @@ brushDef
 }
 }
 }
-// entity 12
 {
 "classname" "func_door"
 "angle" "90"
 "team" "door1"
 "health" "1"
-// brush 0
 {
 brushDef
 {
@@ -802,7 +728,6 @@ brushDef
 ( -244 704 -64 ) ( -244 640 -64 ) ( -244 704 96 ) ( ( 0.0178571343 0 244.4285736084 ) ( 0 0.0062500001 0.6000000238 ) ) shared_trak5/vertpanel2b 0 0 0
 }
 }
-// brush 1
 {
 brushDef
 {
@@ -815,13 +740,11 @@ brushDef
 }
 }
 }
-// entity 13
 {
 "classname" "func_door"
 "angle" "270"
 "team" "door2"
 "targetname" "door2"
-// brush 0
 {
 brushDef
 {
@@ -833,7 +756,6 @@ brushDef
 ( -252 192 -64 ) ( -252 256 -64 ) ( -252 192 96 ) ( ( 0 0.015625 -0 ) ( -0.015625 0 0 ) ) shared_trak5/wall4d 0 0 0
 }
 }
-// brush 1
 {
 brushDef
 {
@@ -846,13 +768,11 @@ brushDef
 }
 }
 }
-// entity 14
 {
 "classname" "func_door"
 "angle" "90"
 "team" "door2"
 "targetname" "door2"
-// brush 0
 {
 brushDef
 {
@@ -864,7 +784,6 @@ brushDef
 ( -244 320 -64 ) ( -244 256 -64 ) ( -244 320 96 ) ( ( 0.0178571474 0 251.2857055664 ) ( 0 0.0062500001 0.6000000238 ) ) shared_trak5/vertpanel2d 0 0 0
 }
 }
-// brush 1
 {
 brushDef
 {
@@ -877,12 +796,10 @@ brushDef
 }
 }
 }
-// entity 15
 {
 "classname" "func_door"
 "angle" "270"
 "team" "door3"
-// brush 0
 {
 brushDef
 {
@@ -894,7 +811,6 @@ brushDef
 ( -252 -192 -64 ) ( -252 -128 -64 ) ( -252 -192 96 ) ( ( 0 0.015625 -0 ) ( -0.015625 0 0 ) ) shared_trak5/wall4c 0 0 0
 }
 }
-// brush 1
 {
 brushDef
 {
@@ -907,12 +823,10 @@ brushDef
 }
 }
 }
-// entity 16
 {
 "classname" "func_door"
 "angle" "90"
 "team" "door3"
-// brush 0
 {
 brushDef
 {
@@ -924,7 +838,6 @@ brushDef
 ( -244 -64 -64 ) ( -244 -128 -64 ) ( -244 -64 96 ) ( ( 0.0178571437 0 2.1428570747 ) ( 0 0.0062500001 0.6000000238 ) ) shared_trak5/vertpanel2c 0 0 0
 }
 }
-// brush 1
 {
 brushDef
 {
@@ -937,13 +850,11 @@ brushDef
 }
 }
 }
-// entity 17
 {
 "classname" "func_button"
 "target" "door2"
 "health" "1"
 "angle" "180"
-// brush 0
 {
 brushDef
 {
@@ -956,13 +867,11 @@ brushDef
 }
 }
 }
-// entity 18
 {
 "classname" "func_button"
 "target" "door2"
 "health" "1"
 "angle" "0"
-// brush 0
 {
 brushDef
 {
@@ -975,11 +884,9 @@ brushDef
 }
 }
 }
-// entity 19
 {
 "classname" "trigger_heal"
 "heal" "1"
-// brush 0
 {
 brushDef
 {
@@ -992,11 +899,9 @@ brushDef
 }
 }
 }
-// entity 20
 {
 "classname" "trigger_hurt"
 "dmg" "1"
-// brush 0
 {
 brushDef
 {
@@ -1009,12 +914,10 @@ brushDef
 }
 }
 }
-// entity 21
 {
 "classname" "func_button"
 "target" "destruct"
 "angle" "180"
-// brush 0
 {
 brushDef
 {
@@ -1027,14 +930,12 @@ brushDef
 }
 }
 }
-// entity 22
 {
 "classname" "func_destructable"
 "damage" "50"
 "health" "50"
 "targetname" "destruct"
 "radius" "512"
-// brush 0
 {
 brushDef
 {
@@ -1047,13 +948,11 @@ brushDef
 }
 }
 }
-// entity 23
 {
 "classname" "func_door"
 "angle" "270"
 "team" "door4"
 "targetname" "door4"
-// brush 0
 {
 brushDef
 {
@@ -1065,7 +964,6 @@ brushDef
 ( -252 -960 -64 ) ( -252 -896 -64 ) ( -252 -960 96 ) ( ( 0 0.015625 -0 ) ( -0.015625 0 0 ) ) shared_trak5/wall4d 0 0 0
 }
 }
-// brush 1
 {
 brushDef
 {
@@ -1078,13 +976,11 @@ brushDef
 }
 }
 }
-// entity 24
 {
 "classname" "func_door"
 "angle" "90"
 "team" "door4"
 "targetname" "door4"
-// brush 0
 {
 brushDef
 {
@@ -1096,7 +992,6 @@ brushDef
 ( -244 -832 -64 ) ( -244 -896 -64 ) ( -244 -832 96 ) ( ( 0.0178571474 0 15.8571472168 ) ( 0 0.0062500001 0.6000000238 ) ) shared_trak5/vertpanel2d 0 0 0
 }
 }
-// brush 1
 {
 brushDef
 {
@@ -1109,13 +1004,11 @@ brushDef
 }
 }
 }
-// entity 25
 {
 "classname" "func_button"
 "target" "door4"
 "health" "1"
 "angle" "180"
-// brush 0
 {
 brushDef
 {
