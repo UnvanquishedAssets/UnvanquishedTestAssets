@@ -1,0 +1,20 @@
+map-test-doors by cu-kai
+
+This is a map for testing door entities, and so-called "button puzzles".
+
+Each door / room is numbered as follows:
+
+func_door:
+1. automatic sliding door
+2. button operated sliding door (including a floor-button which must be damaged to operate it)
+3. trigger volume operated sliding door (simply enter the trigger or build something within it)
+
+func_door_model:
+4. TODO
+8. TODO
+
+func_door_rotating:
+5. automatic rotating door
+6. button operated rotating door
+7. trigger volume operated rotating door (same as above)
+
