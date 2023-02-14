@@ -16,6 +16,8 @@ Maps
   a map to test that gravity 0 brushes work
 - [`map-test-model_src.dpkdir`](src/map-test-model_src.dpkdir)  
   a map to help testing models: replace the armoury model, load the map and check if everything is right
+- [`map-test-navmesh_src.dpkdir`](src/map-test-navmesh_src.dpkdir)
+  a map to help testing navmesh generation on some specific use case, for example to draw a navmesh in a small gap a player can stride over.
 - [`map-test-normal_src.dpkdir`](src/map-test-normal_src.dpkdir)  
   a map to test normal maps in various formats (OpenGL, DirectX)
 - [`map-test-pbr_src.dpkdir`](src/map-test-pbr_src.dpkdir)  
