@@ -16,23 +16,10 @@ textures/test-dlight_custom/train_scroll
 	surfaceparm nomarks
 
 	{
-		map textures/shared_pk01_src/wall03b_d
-		blend diffuseMap
+		diffuseMap textures/shared_pk01_src/wall03b_d
+		normalMap textures/shared_pk01_src/wall03_n
+		specularMap textures/shared_pk01_src/wall03_s
 		tcMod scroll -3.333333 0
-	}
-	{
-		map textures/shared_pk01_src/wall03_n
-		blend bumpMap
-		tcMod scroll -3.333333 0
-	}
-	{
-		map textures/shared_pk01_src/wall03_s
-		blend specularMap
-		tcMod scroll -3.333333 0
-	}
-	{
-		map $lightmap
-		blendFunc filter
 	}
 }
 
