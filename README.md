@@ -10,7 +10,7 @@ Maps
 
 - [`map-test-dlight_src.dpkdir`](src/map-test-dlight_src.dpkdir)  
   A map to test dynamic light, also features a nice train demo.
-- [`map-test-doors_src.dpkdir`](src/map-test-doors_src.dpkdir)
+- [`map-test-doors_src.dpkdir`](src/map-test-doors_src.dpkdir)  
   A map to test various door arrangements (has its' own dedicated [`README`](src/map-test-doors_src.dpkdir/README))
 - [`map-test-ent-damage_src.dpkdir`](src/map-test-ent-damage_src.dpkdir)  
   A map to test support for damage entities (doors, buttons) and triggers heal, hurt.
