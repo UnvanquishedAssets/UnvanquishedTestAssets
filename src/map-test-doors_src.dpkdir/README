@@ -16,5 +16,5 @@ func_door_model:
 func_door_rotating:
 5. automatic rotating door
 6. button operated rotating door
-7. trigger volume operated rotating door (same as above)
+7. damage operated rotating door (shoot to open)
 
