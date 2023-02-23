@@ -18,3 +18,4 @@ func_door_rotating:
 6. button operated rotating door
 7. damage operated rotating door (shoot to open)
 
+The door models are from the Blue Nebula game and the MD5mesh was modified to work with Daemon Engine.
