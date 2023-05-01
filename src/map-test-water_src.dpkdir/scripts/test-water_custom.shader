@@ -65,6 +65,9 @@ textures/test-water_custom/water_liquid
 	qer_editorImage textures/test-water_custom_src/water_d
 	qer_trans .6
 
+	translucent
+	noshadows
+	water
 	mirror
 	sort postProcess
 
@@ -80,24 +83,16 @@ textures/test-water_custom/water_liquid
 		// currently broken
 		stage liquidMap
 		map textures/test-water_custom_src/water_n
-		depthWrite
 
 		scroll time * .1, time * .1
 		scale .5, .5
 		refractionIndex 1.3 // water
 		fresnelPower  2
-		fresnelScale .85 // + sinTable[time * .4] * .25
+		fresnelScale 1.85 // + sinTable[time * .4] * .25
 		fresnelBias  .05
 
-		alphaGen const .45
-		// optional to tweak the water color but not necessary
-		blend blend
-
-		// give it a blue tint
-//		red   .7
-//		green .7
-//		blue   1
-//		alpha  1
+		fogDensity .003 // underwater fog
+		color .3, .4, .7, 1 // underwater fog color
 	}
 }
 
@@ -106,6 +101,9 @@ textures/test-water_custom/water_liquid_phong
 	qer_editorImage textures/test-water_custom_src/water_d
 	qer_trans .6
 
+	translucent
+	noshadows
+	water
 	mirror
 	sort postProcess
 
@@ -114,7 +112,6 @@ textures/test-water_custom/water_liquid_phong
 	surfaceparm water
 	surfaceparm nonsolid
 
-	// mirror may be wrong
 	cull none
 
 	{
@@ -130,18 +127,11 @@ textures/test-water_custom/water_liquid_phong
 		scale .5, .5
 		refractionIndex 1.3 // water
 		fresnelPower  2
-		fresnelScale .85 // + sinTable[time * .4] * .25
+		fresnelScale 1.85 // + sinTable[time * .4] * .25
 		fresnelBias  .05
 
-		alphaGen const .45
-		// optional to tweak the water color but not necessary
-		blend blend
-
-		// give it a blue tint
-//		red   .7
-//		green .7
-//		blue   1
-//		alpha  1
+		fogDensity .003 // underwater fog
+		color .3, .4, .7, 1 // underwater fog color
 	}
 }
 textures/test-water_custom/water_liquid_pbr
@@ -149,6 +139,9 @@ textures/test-water_custom/water_liquid_pbr
 	qer_editorImage textures/test-water_custom_src/water_d
 	qer_trans .6
 
+	translucent
+	noshadows
+	water
 	mirror
 	sort postProcess
 
@@ -157,7 +150,6 @@ textures/test-water_custom/water_liquid_pbr
 	surfaceparm water
 	surfaceparm nonsolid
 
-	// mirror may be wrong
 	cull none
 
 	{
@@ -173,18 +165,11 @@ textures/test-water_custom/water_liquid_pbr
 		scale .5, .5
 		refractionIndex 1.3 // water
 		fresnelPower  2
-		fresnelScale .85 // + sinTable[time * .4] * .25
+		fresnelScale 1.85 // + sinTable[time * .4] * .25
 		fresnelBias  .05
 
-		alphaGen const .45
-		// optional to tweak the water color but not necessary
-		blend blend
-
-		// give it a blue tint
-//		red   .7
-//		green .7
-//		blue   1
-//		alpha  1
+		fogDensity .003 // underwater fog
+		color .3, .4, .7, 1 // underwater fog color
 	}
 }
 
