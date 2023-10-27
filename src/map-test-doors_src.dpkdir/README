@@ -8,9 +8,9 @@ func_door:
 1. automatic sliding door
 2. button operated sliding door (including a floor-button which must be damaged to operate it)
 3. trigger volume operated sliding door (simply enter the trigger or build something within it)
+4. button operated sliding door using experimental TOGGLE bit flag (press the button again to close the door)
 
 func_door_model:
-4. TODO
 8. TODO
 
 func_door_rotating:
