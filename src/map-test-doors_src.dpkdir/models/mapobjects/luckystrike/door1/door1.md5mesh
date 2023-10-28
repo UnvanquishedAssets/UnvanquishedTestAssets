@@ -11,7 +11,7 @@ joints {
 mesh {
 	// meshes: Cube
 
-	shader "textures/luckystrike/door1/skin.png"
+	shader "models/mapobjects/luckystrike/door1/door1"
 
 	numverts 36
 	vert 0 ( 0.945180 0.161126 ) 0 1

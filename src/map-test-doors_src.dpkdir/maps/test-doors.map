@@ -894,9 +894,9 @@ brushDef
 {
 "classname" "func_door_model"
 "modelOrigin" "-1632 320 0"
-"model2" "models/luckystrike/door2/door2.iqm"
+"model2" "models/mapobjects/luckystrike/door2/door2.iqm"
 "animation" "1 10"
-"model" "models/luckystrike/door2/door2.iqm"
+"model" "models/mapobjects/luckystrike/door2/door2.iqm"
 "angle" "-1"
 "scale" "1 1 1"
 "speed" "1000"
@@ -921,5 +921,5 @@ brushDef
 {
 "classname" "misc_anim_model"
 "origin" "-1664.000000 816.000000 0.000000"
-"model" "models/luckystrike/door2/door2.iqm"
+"model" "models/mapobjects/luckystrike/door2/door2.iqm"
 }
