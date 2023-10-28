@@ -892,34 +892,38 @@ brushDef
 }
 }
 {
-"classname" "func_door_model"
-"modelOrigin" "-1632 320 0"
-"model2" "models/mapobjects/luckystrike/door2/door2.iqm"
-"animation" "1 10"
-"model" "models/mapobjects/luckystrike/door2/door2.iqm"
-"angle" "-1"
-"scale" "1 1 1"
-"speed" "1000"
-"sound1to2" "sound/null.wav"
-"sound2to1" "sound/null.wav"
-"soundPos1" "sound/null.wav"
-"soundPos2" "sound/null.wav"
-"noise" "sound/null.wav"
-"health" "0"
-{
-brushDef
-{
-( -1632 464 128 ) ( -1632 176 128 ) ( -1664 464 128 ) ( ( 2 0 288 ) ( 0 2 3776 ) ) shared_colors/gray 0 0 0
-( -1632 400 192 ) ( -1664 400 192 ) ( -1632 400 0 ) ( ( 2 0 320 ) ( 0 2 0 ) ) shared_colors/gray 0 0 0
-( -1640 462 192 ) ( -1640 462 0 ) ( -1640 174 192 ) ( ( 2 0 0 ) ( 0 2 0 ) ) shared_colors/gray 0 0 0
-( -1664 176 0 ) ( -1632 176 0 ) ( -1664 464 0 ) ( ( 2 0 288 ) ( 0 2 320 ) ) shared_colors/gray 0 0 0
-( -1664 240 0 ) ( -1664 240 192 ) ( -1632 240 0 ) ( ( 2 0 3776 ) ( 0 2 0 ) ) shared_colors/gray 0 0 0
-( -1648 176 0 ) ( -1648 464 0 ) ( -1648 176 192 ) ( ( 2 0 3808 ) ( 0 2 0 ) ) shared_colors/gray 0 0 0
-}
-}
+"classname" "misc_anim_model"
+"origin" "-2360.000000 880.000000 0.000000"
+"model" "models/mapobjects/luckystrike/door1/door1.iqm"
+"animation" "12 12 1 15"
 }
 {
 "classname" "misc_anim_model"
-"origin" "-1664.000000 816.000000 0.000000"
+"origin" "-2552.000000 880.000000 0.000000"
+"model" "models/mapobjects/luckystrike/door1/door1.md5mesh"
+"animation" "12 12 1 15"
+}
+{
+"classname" "misc_anim_model"
+"origin" "-2744.000000 880.000000 0.000000"
+"model" "models/mapobjects/luckystrike/door1/door1.md3"
+"animation" "12 12 1 15"
+}
+{
+"classname" "misc_anim_model"
+"origin" "-2360.000000 144.000000 0.000000"
 "model" "models/mapobjects/luckystrike/door2/door2.iqm"
+"animation" "6 6 1 15"
+}
+{
+"classname" "misc_anim_model"
+"origin" "-2552.000000 144.000000 0.000000"
+"model" "models/mapobjects/luckystrike/door2/door2.md5mesh"
+"animation" "6 6 1 15"
+}
+{
+"classname" "misc_anim_model"
+"origin" "-2744.000000 144.000000 0.000000"
+"model" "models/mapobjects/luckystrike/door2/door2.md3"
+"animation" "6 6 1 15"
 }
