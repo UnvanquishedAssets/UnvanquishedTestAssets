@@ -1,20 +1,20 @@
-textures/custom_test-video/tremulous-splash-roq_256
+textures/custom_test-video/admiral-ushakov_battleship_256
 {
-	qer_editorImage video/tremulous-splash_256
+	qer_editorImage video/admiral-ushakov_battleship_256
 	surfaceparm nolightmap
 	surfaceparm nomarks
 	{
-		videoMap video/tremulous-splash_256.roq
+		videoMap video/admiral-ushakov_battleship_256.roq
 	}
 }
 
-textures/custom_test-video/tremulous-splash-roq_256-flicker
+textures/custom_test-video/the-kid_regrets_256
 {
-	qer_editorImage video/tremulous-splash_256
+	qer_editorImage video/the-kid_regrets_256
 	surfaceparm nolightmap
 	surfaceparm nomarks
 	{
-		videoMap video/tremulous-splash_256.roq
+		videoMap video/the-kid_regrets_256.roq
 		rgbGen wave triangle 1 0.3 0 11
 	}
 }
