@@ -18,3 +18,13 @@ textures/custom_test-video/the-kid_regrets_256
 		rgbGen wave triangle 1 0.3 0 11
 	}
 }
+
+textures/custom_test-video/big-buck-bunny_jumping_720
+{
+	qer_editorImage video/big-buck-bunny_jumping_720
+	surfaceparm nolightmap
+	surfaceparm nomarks
+	{
+		videoMap video/big-buck-bunny_jumping_720.roq
+	}
+}
