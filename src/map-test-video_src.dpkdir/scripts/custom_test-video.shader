@@ -19,6 +19,16 @@ textures/custom_test-video/the-kid_regrets_256
 	}
 }
 
+textures/custom_test-video/pdarchive_asteroid_128
+{
+	qer_editorImage video/pdarchive_asteroid_128
+	surfaceparm nolightmap
+	surfaceparm nomarks
+	{
+		videoMap video/pdarchive_asteroid_128.roq
+	}
+}
+
 textures/custom_test-video/big-buck-bunny_jumping_720
 {
 	qer_editorImage video/big-buck-bunny_jumping_720
