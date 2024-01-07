@@ -3363,14 +3363,14 @@
 }
 {
 "classname" "misc_portal_surface"
-"origin" "-1888.000000 624.000000 32.000000"
+"origin" "-1888.000000 616.000000 32.000000"
 "target" "camera_24"
 "angle" "90.000000"
 "targetname" "target_position_24"
 }
 {
 "classname" "misc_portal_surface"
-"origin" "-1888.000000 624.000000 32.000000"
+"origin" "-1888.000000 616.000000 32.000000"
 "target" "camera_25"
 "angle" "90.000000"
 "targetname" "target_position_25"
