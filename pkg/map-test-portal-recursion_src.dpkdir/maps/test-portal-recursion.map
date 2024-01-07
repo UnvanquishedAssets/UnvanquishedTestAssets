@@ -1410,10 +1410,10 @@
 }
 {
 ( 1032 96 192 ) ( 1032 -96 192 ) ( 1016 96 192 ) common/caulk 0 0 0 0.5 0.5 0 0 0
-( 1040 112 192 ) ( 1024 112 192 ) ( 1040 112 -64 ) shared_trak5/base1b 0 0 0 0.5 0.5 0 0 0
+( 1040 128 192 ) ( 1024 128 192 ) ( 1040 128 -64 ) shared_trak5/base1b 0 0 0 0.5 0.5 0 0 0
 ( 1056 96 192 ) ( 1056 96 -64 ) ( 1056 -96 192 ) shared_trak5/base1b 0 0 0 0.5 0.5 0 0 0
 ( 1016 -96 -64 ) ( 1032 -96 -64 ) ( 1016 96 -64 ) common/caulk 0 0 0 0.5 0.5 0 0 0
-( 1040 -112 -64 ) ( 1040 -112 192 ) ( 1056 -112 -64 ) shared_trak5/base1b 0 0 0 0.5 0.5 0 0 0
+( 1040 -128 -64 ) ( 1040 -128 192 ) ( 1056 -128 -64 ) shared_trak5/base1b 0 0 0 0.5 0.5 0 0 0
 ( 992 -96 -64 ) ( 992 96 -64 ) ( 992 -96 192 ) shared_trak5/base1b 0 0 0 0.5 0.5 0 0 0
 }
 {
@@ -1498,10 +1498,10 @@
 }
 {
 ( -2552 96 192 ) ( -2552 -96 192 ) ( -2568 96 192 ) common/caulk 0 0 0 0.5 0.5 0 0 0
-( -2544 112 192 ) ( -2560 112 192 ) ( -2544 112 -64 ) shared_trak5/base1b 0 0 0 0.5 0.5 0 0 0
+( -2544 128 192 ) ( -2560 128 192 ) ( -2544 128 -64 ) shared_trak5/base1b 0 0 0 0.5 0.5 0 0 0
 ( -2528 96 192 ) ( -2528 96 -64 ) ( -2528 -96 192 ) shared_trak5/base1b 0 0 0 0.5 0.5 0 0 0
 ( -2568 -96 -64 ) ( -2552 -96 -64 ) ( -2568 96 -64 ) common/caulk 0 0 0 0.5 0.5 0 0 0
-( -2544 -112 -64 ) ( -2544 -112 192 ) ( -2528 -112 -64 ) shared_trak5/base1b 0 0 0 0.5 0.5 0 0 0
+( -2544 -128 -64 ) ( -2544 -128 192 ) ( -2528 -128 -64 ) shared_trak5/base1b 0 0 0 0.5 0.5 0 0 0
 ( -2592 -96 -64 ) ( -2592 96 -64 ) ( -2592 -96 192 ) shared_trak5/base1b 0 0 0 0.5 0.5 0 0 0
 }
 {
@@ -3245,14 +3245,12 @@
 {
 "classname" "misc_portal_surface"
 "origin" "-2880.000000 168.000000 32.000000"
-"target" "camera_11"
 "angle" "90.000000"
 "targetname" "target_position_11"
 }
 {
 "classname" "misc_portal_surface"
 "origin" "-2880.000000 -168.000000 32.000000"
-"target" "camera_12"
 "angle" "-90.000000"
 "targetname" "target_position_12"
 }
@@ -3280,28 +3278,24 @@
 {
 "classname" "misc_portal_surface"
 "origin" "-1144.000000 512.000000 32.000000"
-"target" "camera_14"
 "angle" "0"
 "targetname" "target_position_14"
 }
 {
 "classname" "misc_portal_surface"
 "origin" "-1144.000000 512.000000 32.000000"
-"target" "camera_15"
 "angle" "0"
 "targetname" "target_position_15"
 }
 {
 "classname" "misc_portal_surface"
 "origin" "-2232.000000 752.000000 32.000000"
-"target" "camera_16"
 "angle" "45.000000"
 "targetname" "target_position_16"
 }
 {
 "classname" "misc_portal_surface"
 "origin" "-2232.000000 752.000000 32.000000"
-"target" "camera_17"
 "angle" "45.000000"
 "targetname" "target_position_17"
 }
@@ -3357,35 +3351,30 @@
 {
 "classname" "misc_portal_surface"
 "origin" "-1568.000000 616.000000 32.000000"
-"target" "camera_23"
 "angle" "90.000000"
 "targetname" "target_position_23"
 }
 {
 "classname" "misc_portal_surface"
 "origin" "-1888.000000 616.000000 32.000000"
-"target" "camera_24"
 "angle" "90.000000"
 "targetname" "target_position_24"
 }
 {
 "classname" "misc_portal_surface"
 "origin" "-1888.000000 616.000000 32.000000"
-"target" "camera_25"
 "angle" "90.000000"
 "targetname" "target_position_25"
 }
 {
 "classname" "misc_portal_surface"
 "origin" "-1464.000000 512.000000 32.000000"
-"target" "camera_28"
 "angle" "0"
 "targetname" "target_position_28"
 }
 {
 "classname" "misc_portal_surface"
 "origin" "-1464.000000 512.000000 32.000000"
-"target" "camera_29"
 "angle" "0"
 "targetname" "target_position_29"
 }
