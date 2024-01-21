@@ -3923,7 +3923,6 @@
 "origin" "32.000000 616.000000 32.000000"
 "target" "camera_6"
 "angle" "90"
-"targetname" "target_position_6"
 }
 {
 "classname" "misc_portal_camera"
@@ -4033,7 +4032,6 @@
 "origin" "-288.000000 616.000000 32.000000"
 "target" "camera_9"
 "angle" "90.000000"
-"targetname" "target_position_9"
 }
 {
 "classname" "misc_portal_camera"
@@ -4191,7 +4189,6 @@
 "origin" "-1248.000000 616.000000 32.000000"
 "target" "camera_32"
 "angle" "90.000000"
-"targetname" "target_position_32"
 }
 {
 "classname" "misc_portal_camera"
