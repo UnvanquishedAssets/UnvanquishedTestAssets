@@ -1,0 +1,343 @@
+{
+"classname" "worldspawn"
+{
+( 64 128 544 ) ( 64 0 544 ) ( -64 128 544 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 512 512 64 ) ( 384 512 64 ) ( 512 512 -64 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 1024 448 64 ) ( 1024 448 -64 ) ( 1024 320 64 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( -512 -512 -64 ) ( -512 -512 64 ) ( -384 -512 -64 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( -1024 -544 -64 ) ( -1024 -416 -64 ) ( -1024 -544 64 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( -64 128 512 ) ( 64 0 512 ) ( 64 128 512 ) shared_space/sky15 0 0 0 0.5 0.5 0 0 0
+}
+{
+( 64 128 512 ) ( 64 0 512 ) ( -64 128 512 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 512 544 64 ) ( 384 544 64 ) ( 512 544 -64 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 1024 448 64 ) ( 1024 448 -64 ) ( 1024 320 64 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( -32 0 0 ) ( 96 0 0 ) ( -32 128 0 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( -1024 -544 -64 ) ( -1024 -416 -64 ) ( -1024 -544 64 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 512 512 -64 ) ( 384 512 64 ) ( 512 512 64 ) shared_space/sky15 0 0 0 0.5 0.5 0 0 0
+}
+{
+( 64 128 512 ) ( 64 0 512 ) ( -64 128 512 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 512 512 64 ) ( 384 512 64 ) ( 512 512 -64 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 1056 448 64 ) ( 1056 448 -64 ) ( 1056 320 64 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( -32 0 0 ) ( 96 0 0 ) ( -32 128 0 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( -512 -512 -64 ) ( -512 -512 64 ) ( -384 -512 -64 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 1024 320 64 ) ( 1024 448 -64 ) ( 1024 448 64 ) shared_space/sky15 0 0 0 0.5 0.5 0 0 0
+}
+{
+( 512 512 64 ) ( 384 512 64 ) ( 512 512 -64 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 1024 448 64 ) ( 1024 448 -64 ) ( 1024 320 64 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( -32 0 -32 ) ( 96 0 -32 ) ( -32 128 -32 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( -512 -512 -64 ) ( -512 -512 64 ) ( -384 -512 -64 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( -1024 -544 -64 ) ( -1024 -416 -64 ) ( -1024 -544 64 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( -32 128 0 ) ( 96 0 0 ) ( -32 0 0 ) shared_tech/floortile1c 0 0 0 0.25 0.25 0 0 0
+}
+{
+( 64 128 512 ) ( 64 0 512 ) ( -64 128 512 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 1024 448 64 ) ( 1024 448 -64 ) ( 1024 320 64 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( -32 0 0 ) ( 96 0 0 ) ( -32 128 0 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( -512 -544 -64 ) ( -512 -544 64 ) ( -384 -544 -64 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( -1024 -544 -64 ) ( -1024 -416 -64 ) ( -1024 -544 64 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( -384 -512 -64 ) ( -512 -512 64 ) ( -512 -512 -64 ) shared_space/sky15 0 0 0 0.5 0.5 0 0 0
+}
+{
+( 64 128 512 ) ( 64 0 512 ) ( -64 128 512 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 512 512 64 ) ( 384 512 64 ) ( 512 512 -64 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( -32 0 0 ) ( 96 0 0 ) ( -32 128 0 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( -512 -512 -64 ) ( -512 -512 64 ) ( -384 -512 -64 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( -1056 -544 -64 ) ( -1056 -416 -64 ) ( -1056 -544 64 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( -1024 -544 64 ) ( -1024 -416 -64 ) ( -1024 -544 -64 ) shared_space/sky15 0 0 0 0.5 0.5 0 0 0
+}
+{
+( 128 512 128 ) ( 128 -448 128 ) ( -128 512 128 ) shared_tech/floortile1c 0 0 0 0.25 0.25 0 0 0
+( 128 512 512 ) ( -128 512 512 ) ( 128 512 0 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 128 512 512 ) ( 128 512 0 ) ( 128 -448 512 ) shared_tech/floortile1a 0 0 0 0.5 0.5 0 0 0
+( -128 -448 0 ) ( 128 -448 0 ) ( -128 512 0 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( -192 -128 0 ) ( -192 -128 512 ) ( 64 -128 0 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( -128 -448 0 ) ( -128 512 0 ) ( -128 -448 512 ) shared_tech/floortile1a 0 0 0 0.5 0.5 0 0 0
+}
+{
+( 384 512 256 ) ( 384 256 256 ) ( 128 512 256 ) shared_tech/floortile1c 0 0 0 0.25 0.25 0 0 0
+( 384 512 128 ) ( 128 512 128 ) ( 384 512 0 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 1024 256 128 ) ( 1024 256 0 ) ( 1024 0 128 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 128 256 0 ) ( 384 256 0 ) ( 128 512 0 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 768 0 0 ) ( 768 0 128 ) ( 1024 0 0 ) shared_tech/floortile1b 0 0 0 0.5 0.5 0 0 0
+( 256 256 0 ) ( 256 512 0 ) ( 256 256 128 ) shared_tech/floortile1b 0 0 0 0.25 0.25 0 0 0
+}
+{
+( 128 512 128 ) ( 128 -448 128 ) ( -128 512 128 ) shared_tech/floortile1c 0 0 0 0.25 0.25 0 0 0
+( 192 -384 512 ) ( -64 -384 512 ) ( 192 -384 0 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 128 512 512 ) ( 128 512 0 ) ( 128 -448 512 ) shared_tech/floortile1a 0 0 0 0.5 0.5 0 0 0
+( -128 -448 0 ) ( 128 -448 0 ) ( -128 512 0 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( -192 -512 0 ) ( -192 -512 512 ) ( 64 -512 0 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( -128 -448 0 ) ( -128 512 0 ) ( -128 -448 512 ) shared_tech/floortile1a 0 0 0 0.5 0.5 0 0 0
+}
+{
+( 128 512 128 ) ( 128 -448 128 ) ( -128 512 128 ) shared_tech/floortile1c 0 0 0 0.25 0.25 0 0 0
+( 192 -128 512 ) ( -64 -128 512 ) ( 192 -128 0 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 128 512 512 ) ( 128 512 0 ) ( 128 -448 512 ) shared_tech/floortile1a 0 0 0 0.125 0.125 0 0 0
+( -128 -448 0 ) ( 128 -448 0 ) ( -128 512 0 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( -192 -384 0 ) ( -192 -384 512 ) ( 64 -384 0 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( -128 -448 0 ) ( -128 512 0 ) ( -128 -448 512 ) shared_tech/floortile1a 0 0 0 0.125 0.125 0 0 0
+}
+{
+( 384 512 256 ) ( 384 256 256 ) ( 128 512 256 ) shared_tech/floortile1c 0 0 0 0.25 0.25 0 0 0
+( 448 128 128 ) ( 192 128 128 ) ( 448 128 0 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 256 256 128 ) ( 256 256 0 ) ( 256 0 128 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 128 256 0 ) ( 384 256 0 ) ( 128 512 0 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 768 0 0 ) ( 768 0 128 ) ( 1024 0 0 ) shared_tech/floortile1b 0 0 0 0.5 0.5 0 0 0
+( 128 256 0 ) ( 128 512 0 ) ( 128 256 128 ) shared_tech/floortile1b 0 0 0 0.25 0.25 0 0 0
+}
+{
+( 256 384 256 ) ( 256 128 256 ) ( 128 384 256 ) shared_tech/floortile1c 0 0 0 0.25 0.25 0 0 0
+( 256 384 256 ) ( 128 384 256 ) ( 256 384 0 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 256 384 256 ) ( 256 384 0 ) ( 256 128 256 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 128 128 0 ) ( 256 128 0 ) ( 128 384 0 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 128 128 0 ) ( 128 128 256 ) ( 256 128 0 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 128 128 0 ) ( 128 384 0 ) ( 128 128 256 ) shared_tech/floortile1b 0 0 0 0.125 0.125 0 0 0
+}
+{
+( 256 512 256 ) ( 256 384 256 ) ( 128 512 256 ) shared_tech/floortile1c 0 0 0 0.25 0.25 0 0 0
+( 256 512 256 ) ( 128 512 256 ) ( 256 512 0 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 256 512 256 ) ( 256 512 0 ) ( 256 384 256 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 128 384 0 ) ( 256 384 0 ) ( 128 512 0 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 128 384 0 ) ( 128 384 256 ) ( 256 384 0 ) common/caulk 0 0 0 0.5 0.5 0 0 0
+( 128 384 0 ) ( 128 512 0 ) ( 128 384 256 ) shared_tech/floortile1b 0 0 0 0.25 0.25 0 0 0
+}
+{
+( -128 -128 128 ) ( -128 -184 128 ) ( -136 -128 128 ) common/ladder 0 0 0 0.5 0.5 0 0 0
+( -128 -128 128 ) ( -136 -128 128 ) ( -128 -128 0 ) common/ladder 0 0 0 0.5 0.5 0 0 0
+( -128 -128 128 ) ( -128 -128 0 ) ( -128 -184 128 ) common/ladder 0 0 0 0.5 0.5 0 0 0
+( -136 -184 0 ) ( -128 -184 0 ) ( -136 -128 0 ) common/ladder 0 0 0 0.5 0.5 0 0 0
+( -136 -384 0 ) ( -136 -384 128 ) ( -128 -384 0 ) common/ladder 0 0 0 0.5 0.5 0 0 0
+( -136 -256 0 ) ( -136 -200 0 ) ( -136 -256 128 ) common/ladder 0 0 0 0.5 0.5 0 0 0
+}
+{
+( 136 -128 128 ) ( 136 -184 128 ) ( 128 -128 128 ) common/ladder 0 0 0 0.5 0.5 0 0 0
+( 136 -128 128 ) ( 128 -128 128 ) ( 136 -128 0 ) common/ladder 0 0 0 0.5 0.5 0 0 0
+( 136 -128 128 ) ( 136 -128 0 ) ( 136 -184 128 ) common/ladder 0 0 0 0.5 0.5 0 0 0
+( 128 -184 0 ) ( 136 -184 0 ) ( 128 -128 0 ) common/ladder 0 0 0 0.5 0.5 0 0 0
+( 128 -384 0 ) ( 128 -384 128 ) ( 136 -384 0 ) common/ladder 0 0 0 0.5 0.5 0 0 0
+( 128 -256 0 ) ( 128 -200 0 ) ( 128 -256 128 ) common/ladder 0 0 0 0.5 0.5 0 0 0
+}
+{
+( 128 384 256 ) ( 128 328 256 ) ( 120 384 256 ) common/ladder 0 0 0 0.5 0.5 0 0 0
+( 128 384 256 ) ( 120 384 256 ) ( 128 384 128 ) common/ladder 0 0 0 0.5 0.5 0 0 0
+( 128 384 256 ) ( 128 384 128 ) ( 128 328 256 ) common/ladder 0 0 0 0.5 0.5 0 0 0
+( 120 328 128 ) ( 128 328 128 ) ( 120 384 128 ) common/ladder 0 0 0 0.5 0.5 0 0 0
+( 120 128 128 ) ( 120 128 256 ) ( 128 128 128 ) common/ladder 0 0 0 0.5 0.5 0 0 0
+( 120 256 128 ) ( 120 312 128 ) ( 120 256 256 ) common/ladder 0 0 0 0.5 0.5 0 0 0
+}
+}
+{
+"classname" "pos_navcon_start"
+"origin" "-192.000000 -256.000000 0.000000"
+"target" "navcon1"
+"spawnflags" "1"
+"playerclasses" "human_naked human_bsuit builderupg level0 level1 level2 level2upg level3 level3upg"
+}
+{
+"classname" "pos_navcon_next"
+"origin" "-64.000000 -256.000000 128.000000"
+"targetname" "navcon1"
+}
+{
+"classname" "pos_navcon_start"
+"origin" "64.000000 256.000000 128.000000"
+"target" "navcon2"
+"spawnflags" "1"
+"playerclasses" "human_naked human_bsuit builderupg level0 level1 level2 level2upg level3 level3upg"
+}
+{
+"classname" "pos_navcon_next"
+"origin" "192.000000 256.000000 256.000000"
+"targetname" "navcon2"
+}
+{
+"classname" "pos_navcon_start"
+"origin" "192.000000 -256.000000 0.000000"
+"target" "navcon3"
+"spawnflags" "1"
+"playerclasses" "human_naked human_bsuit builderupg level0 level1 level2 level2upg level3 level3upg"
+"angle" "-179.999985"
+}
+{
+"classname" "pos_navcon_next"
+"origin" "64.000000 -256.000000 128.000000"
+"targetname" "navcon3"
+"angle" "-179.999985"
+}
+{
+"classname" "info_player_intermission"
+"origin" "-512.000000 0.000000 256.000000"
+}
+{
+"classname" "team_alien_overmind"
+"origin" "896.000000 256.000000 288.000000"
+}
+{
+"classname" "team_alien_spawn"
+"origin" "704.000000 320.000000 288.000000"
+"angle" "90.000000"
+}
+{
+"classname" "team_alien_spawn"
+"origin" "704.000000 256.000000 288.000000"
+"angle" "90.000000"
+}
+{
+"classname" "team_alien_spawn"
+"origin" "704.000000 192.000000 288.000000"
+"angle" "90.000000"
+}
+{
+"classname" "pos_navcon_start"
+"origin" "-192.000000 -128.000000 0.000000"
+"target" "navcon4"
+"spawnflags" "1"
+"playerclasses" "builderupg level0 level1 level2 level2upg level3 level3upg"
+}
+{
+"classname" "pos_navcon_next"
+"origin" "-64.000000 -128.000000 128.000000"
+"targetname" "navcon4"
+"playerclasses" "builderupg level0 level1 level2 level2upg level3 level3upg"
+}
+{
+"classname" "pos_navcon_start"
+"origin" "-192.000000 128.000000 0.000000"
+"target" "navcon5"
+"spawnflags" "1"
+"playerclasses" "builderupg level0 level1 level2 level2upg level3 level3upg"
+}
+{
+"classname" "pos_navcon_next"
+"origin" "-64.000000 128.000000 128.000000"
+"targetname" "navcon5"
+"playerclasses" "builderupg level0 level1 level2 level2upg level3 level3upg"
+}
+{
+"classname" "pos_navcon_start"
+"origin" "-192.000000 384.000000 0.000000"
+"target" "navcon6"
+"spawnflags" "1"
+"playerclasses" "builderupg level0 level1 level2 level2upg level3 level3upg"
+}
+{
+"classname" "pos_navcon_next"
+"origin" "-64.000000 384.000000 128.000000"
+"targetname" "navcon6"
+"playerclasses" "builderupg level0 level1 level2 level2upg level3 level3upg"
+}
+{
+"classname" "pos_navcon_start"
+"origin" "-192.000000 -384.000000 0.000000"
+"target" "navcon7"
+"spawnflags" "1"
+"playerclasses" "builderupg level0 level1 level2 level2upg level3 level3upg"
+}
+{
+"classname" "pos_navcon_next"
+"origin" "-64.000000 -384.000000 128.000000"
+"targetname" "navcon7"
+"playerclasses" "builderupg level0 level1 level2 level2upg level3 level3upg"
+}
+{
+"classname" "pos_navcon_start"
+"origin" "192.000000 -384.000000 0.000000"
+"target" "navcon8"
+"spawnflags" "1"
+"playerclasses" "builderupg level0 level1 level2 level2upg level3 level3upg"
+"angle" "-179.999985"
+}
+{
+"classname" "pos_navcon_next"
+"origin" "64.000000 -384.000000 128.000000"
+"targetname" "navcon8"
+"playerclasses" "builderupg level0 level1 level2 level2upg level3 level3upg"
+"angle" "-179.999985"
+}
+{
+"classname" "pos_navcon_start"
+"origin" "192.000000 -128.000000 0.000000"
+"target" "navcon9"
+"spawnflags" "1"
+"playerclasses" "builderupg level0 level1 level2 level2upg level3 level3upg"
+"angle" "-179.999985"
+}
+{
+"classname" "pos_navcon_next"
+"origin" "64.000000 -128.000000 128.000000"
+"targetname" "navcon9"
+"playerclasses" "builderupg level0 level1 level2 level2upg level3 level3upg"
+"angle" "-179.999985"
+}
+{
+"classname" "pos_navcon_start"
+"origin" "320.000000 -64.000000 0.000000"
+"target" "navcon10"
+"spawnflags" "1"
+"playerclasses" "builderupg level0 level1 level2 level2upg level3 level3upg"
+"angle" "90.000000"
+}
+{
+"classname" "pos_navcon_next"
+"origin" "320.000000 64.000000 256.000000"
+"targetname" "navcon10"
+"playerclasses" "builderupg level0 level1 level2 level2upg level3 level3upg"
+"angle" "90.000000"
+}
+{
+"classname" "pos_navcon_start"
+"origin" "576.000000 -64.000000 0.000000"
+"target" "navcon11"
+"spawnflags" "1"
+"playerclasses" "builderupg level0 level1 level2 level2upg level3 level3upg"
+"angle" "90.000000"
+}
+{
+"classname" "pos_navcon_next"
+"origin" "576.000000 64.000000 256.000000"
+"targetname" "navcon11"
+"playerclasses" "builderupg level0 level1 level2 level2upg level3 level3upg"
+"angle" "90.000000"
+}
+{
+"classname" "pos_navcon_start"
+"origin" "832.000000 -64.000000 0.000000"
+"target" "navcon12"
+"spawnflags" "1"
+"playerclasses" "builderupg level0 level1 level2 level2upg level3 level3upg"
+"angle" "90.000000"
+}
+{
+"classname" "pos_navcon_next"
+"origin" "832.000000 64.000000 256.000000"
+"targetname" "navcon12"
+"playerclasses" "builderupg level0 level1 level2 level2upg level3 level3upg"
+"angle" "90.000000"
+}
+{
+"classname" "team_human_reactor"
+"origin" "-896.000000 0.000000 32.000000"
+}
+{
+"classname" "team_human_spawn"
+"origin" "-704.000000 0.000000 32.000000"
+}
+{
+"classname" "team_human_spawn"
+"origin" "-704.000000 128.000000 32.000000"
+}
+{
+"classname" "team_human_spawn"
+"origin" "-704.000000 -128.000000 32.000000"
+}
+{
+"classname" "team_human_armoury"
+"origin" "-896.000000 128.000000 32.000000"
+}
+{
+"classname" "team_human_medistat"
+"origin" "-896.000000 256.000000 32.000000"
+}
