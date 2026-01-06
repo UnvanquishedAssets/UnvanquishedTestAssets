@@ -24,9 +24,13 @@ Maps
   A map to test normal maps in various formats (OpenGL, DirectX), also features relief mapping.
 - [`map-test-pbr_src.dpkdir`](pkg/map-test-pbr_src.dpkdir)  
   A map to test PBR support in engine.
-- [`map-test-pushpad_src.dpkdir`](pkg/map-test-pushpad_src.dpkdir)  
-  A map to test pushpad mechanism in game.
 - [`map-test-pngalpha_src.dpkdir`](pkg/map-test-pngalpha_src.dpkdir)  
   A map to test support for various PNG formats in toolchain.
+- [`map-test-portal-recursion_src.dpkdir`](pkg/map-test-portal-recursion_src.dpkdir)  
+  A map to test portal and mirror recursion.
+- [`map-test-pushpad_src.dpkdir`](pkg/map-test-pushpad_src.dpkdir)  
+  A map to test pushpad mechanism in game.
+- [`map-test-video_src.dpkdir`](pkg/maptest-video_src.dpkdir)  
+  A map to test video playback surfaces in game.
 - [`map-test-water_src.dpkdir`](pkg/map-test-water_src.dpkdir)  
   A map to test support for liquidMap water shader.
